@@ -1,0 +1,122 @@
+{
+    "basics": {
+      "name": "Josue Anthony Poza Perez",
+      "label": "Full Stack Developer",
+      "image": "https://github.com/Josue24p.png",
+      "email": "josuepoza.24@gmail.com",
+      "phone": "+51 923314248",
+      "url": "https://johndoe.com",
+      "summary": "Soy estudiante del 8vo ciclo de la carrera de Ingeniería de Sistemas e Informática de la Universidad Tecnológica del Perú, me considero muy autodidacta, con ganas de aprender cada vez más en este ámbito profesional. He participado en la construcción de proyectos individuales como en equipo. Esta experiencia me ha permitido poder desenvolverme más, una habilidad para poder transmitir ideas de manera clara y efectiva tanto con el equipo con los interesados.",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "Lima, SMP",
+        "countryCode": "US",
+        "region": "Lima"
+      },
+      "profiles": [
+        {
+        "network": "X",
+        "username": "Josue",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "GitHub",
+        "username": "Lonely",
+        "url": "https://github.com/josue24p"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Josue",
+        "url": "https://www.linkedin.com/in/josue-anthony-a4b275175/"
+      }
+    ]
+    },
+    "work": [{
+      "name": "Company Company Company",
+      "position": "President President President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt deleniti deserunt ipsum pariatur inventore. Doloribus optio, odit nam expedita consectetur doloremque libero dolorum, minus enim repudiandae ut praesentium id maiores?",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
