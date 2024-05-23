@@ -1,21 +1,21 @@
 {
-    "basics": {
-      "name": "Josue Anthony Poza Perez",
-      "label": "Full Stack Developer",
-      "image": "https://github.com/Josue24p.png",
-      "email": "josuepoza.24@gmail.com",
-      "phone": "+51 923314248",
-      "url": "https://johndoe.com",
-      "summary": "Soy estudiante del 8vo ciclo de la carrera de Ingeniería de Sistemas e Informática de la Universidad Tecnológica del Perú, me considero muy autodidacta, con ganas de aprender cada vez más en este ámbito profesional. He participado en la construcción de proyectos individuales como en equipo. Esta experiencia me ha permitido poder desenvolverme más, una habilidad para poder transmitir ideas de manera clara y efectiva tanto con el equipo con los interesados.",
-      "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "Lima, SMP",
-        "countryCode": "US",
-        "region": "Lima"
-      },
-      "profiles": [
-        {
+  "basics": {
+    "name": "Josue Anthony Poza Perez",
+    "label": "Full Stack Developer",
+    "image": "https://github.com/Josue24p.png",
+    "email": "josuepoza.24@gmail.com",
+    "phone": "+51 923314248",
+    "url": "https://johndoe.com",
+    "summary": "Soy estudiante del 8vo ciclo de la carrera de Ingeniería de Sistemas e Informática de la Universidad Tecnológica del Perú, me considero muy autodidacta, con ganas de aprender cada vez más en este ámbito profesional. He participado en la construcción de proyectos individuales como en equipo. Esta experiencia me ha permitido poder desenvolverme más, una habilidad para poder transmitir ideas de manera clara y efectiva tanto con el equipo con los interesados.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "Lima, SMP",
+      "countryCode": "US",
+      "region": "Lima"
+    },
+    "profiles": [
+      {
         "network": "X",
         "username": "Josue",
         "url": "https://twitter.com/john"
@@ -31,92 +31,191 @@
         "url": "https://www.linkedin.com/in/josue-anthony-a4b275175/"
       }
     ]
-    },
-    "work": [{
-      "name": "Company Company Company",
-      "position": "President President President",
+  },
+  "work": [
+    {
+      "name": "Pastelería Dulce Amor",
+      "position": "Programador Junior (Proyectos)",
       "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt deleniti deserunt ipsum pariatur inventore. Doloribus optio, odit nam expedita consectetur doloremque libero dolorum, minus enim repudiandae ut praesentium id maiores?",
-      "highlights": [
-        "Started the company"
-      ]
-    }],
-    "volunteer": [{
+      "startDate": "2022-03-01",
+      "endDate": "2022-07-01",
+      "summary": "Mediante este sistema se hizo una implementación de un sistema de venta para poder brindar información de los productos de la pastelería y poder promocionarlos.",
+      "technology":"Tecnologías utilizadas: (MySQL, HTML, CSS, JS, PHP, MySQL)",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "App de Notas",
+      "position": "Front-end Junior",
+      "url": "https://company.com",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Elaboración de una aplicación de registro de tareas, cumple la funcionalidad como un bloc de notas, en este caso puedes crear, modificar, eliminar cada tarea.",
+      "technology":"Tecnologías utilizadas: (React, Tailwind CSS, NodeJs)",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "API REST",
+      "position": "Back-end Junior",
+      "url": "https://company.com",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Creación de un API REST para un e-commerce de venta de productos, con designación de roles, autenticación, autorización para los permisos correspondientes y validación de datos correspondiente.",
+      "technology":"Tecnologías utilizadas: (NodeJs, Express, Jwt, Zod, MongoDB, Js)",
+      "highlights": ["Started the company"] 
+    }
+  ],
+  "volunteer": [
+    {
       "organization": "Organization",
       "position": "Volunteer",
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica del Perú",
+      "url": "https://utp.edu.pe/",
+      "area": "Ingeniería de Sistemas e Informática",
+      "studyType": "Pregrado",
+      "startDate": "2020-08-24",
+      "endDate": "2025-07-18",
       "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "awards": [{
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
-    }],
-    "certificates": [{
+    }
+  ],
+  "certificates": [
+    {
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
-    }],
-    "publications": [{
+    }
+  ],
+  "publications": [
+    {
       "name": "Publication",
       "publisher": "Company",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
       "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }],
-    "languages": [{
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend","Backend", "Fullstack"]      
+    },
+    {
+      "name": "React",
+      "level": "Basic",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Angular",
+      "level": "Basic",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Node",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Backend"]
+    },
+    {
+      "name": "Express",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Backend"]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Intermedio",
+      "keywords": ["SQL", "Base de Datos"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio",
+      "keywords": ["SQL", "Base de Datos"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermedio",
+      "keywords": ["NO SQL", "Base de Datos"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": ["Controlador de versiones"]
+    },
+    {
+      "name":"GitHub",
+      "level": "Intermedio",
+      "keywords": ["Repositorios"]
+    }
+  ],
+  "languages": [
+    {
       "language": "English",
       "fluency": "Native speaker"
-    }],
-    "interests": [{
+    }
+  ],
+  "interests": [
+    {
       "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
-    }]
-  }
+    }
+  ],
+  "projects": [
+    {
+      "name": "Aplicación de tareas",
+      "startDate": "2024-03-01",
+      "endDate": "2021-03-25",
+      "description": "Esta aplicación de tareas, brinda una interfaz atractiva y de fácil uso a los usuarios, cual puede crear tareas que realizar y puede eliminarla cuando termine. Este es un proyecto personal como Freelance de modo de practica a manejar componentes con la libreria de React.",
+      "highlights": ["Crear tareas","Bloc de notas"],
+      "url": "https://josue24p.github.io/react-tasks-example/"
+    },
+    {
+      "name": "Tienda de Productos",
+      "startDate": "2024-04-05",
+      "endDate": "2021-04-20",
+      "description": "Esta aplicación es un e-commerce de productos tecnológicos. Esta aplicación tiene roles independientes donde cada usuario puede agregar, actualizar, eliminar productos en la vista de productos.",
+      "highlights": ["Agregar productos","E-commerce"],
+      "url": "https://josue24p.github.io/react-tasks-example/"     
+    },
+    {
+      "name": "Portafolio",
+      "startDate": "2024-05-07",
+      "endDate": "2021-05-13",
+      "description": "Este es otro proyecto personal en el cual desarrollé mi portafolio, lo realicé como practica con el framework de Angular.",
+      "highlights": ["Portafolio","Presentación"],
+      "url": "https://josue24p.github.io/react-tasks-example/"       
+    }
+  ]
+}
