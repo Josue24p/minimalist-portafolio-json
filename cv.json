@@ -197,6 +197,7 @@
       "name": "Aplicación de tareas",
       "startDate": "2024-03-01",
       "endDate": "2021-03-25",
+      "isActive": true,
       "description": "Esta aplicación de tareas, brinda una interfaz atractiva y de fácil uso a los usuarios, cual puede crear tareas que realizar y puede eliminarla cuando termine. Este es un proyecto personal como Freelance de modo de practica a manejar componentes con la libreria de React.",
       "highlights": ["Crear tareas","Bloc de notas"],
       "url": "https://josue24p.github.io/react-tasks-example/"
@@ -205,6 +206,7 @@
       "name": "Tienda de Productos",
       "startDate": "2024-04-05",
       "endDate": "2021-04-20",
+      "isActive": false,
       "description": "Esta aplicación es un e-commerce de productos tecnológicos. Esta aplicación tiene roles independientes donde cada usuario puede agregar, actualizar, eliminar productos en la vista de productos.",
       "highlights": ["Agregar productos","E-commerce"],
       "url": "https://josue24p.github.io/react-tasks-example/"     
@@ -213,6 +215,7 @@
       "name": "Portafolio",
       "startDate": "2024-05-07",
       "endDate": "2021-05-13",
+      "isActive": true,
       "description": "Este es otro proyecto personal en el cual desarrollé mi portafolio, lo realicé como practica con el framework de Angular.",
       "highlights": ["Portafolio","Presentación"],
       "url": "https://josue24p.github.io/react-tasks-example/"       

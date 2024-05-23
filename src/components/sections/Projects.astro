@@ -6,14 +6,19 @@ import {projects} from '@cv'
 <Section title="Projects">
     <ul>
         {
-            projects.map(({url,description,highlights,name,startDate,endDate}) =>{
+            projects.map(({url,description,highlights,name,startDate,endDate,isActive}) =>{
                 return (
                     <li>
                         <article>
                             <header>
+                                <h3>
                                 <a href={url} title={`Ver el proyecto ${name}`}>
-                                    <h3>{name}</h3>
+                                    {name}
                                 </a>
+                                {
+                                    isActive && <span>&bull;</span>
+                                }
+                                </h3>
                                 <p>{description}</p>
                             </header>
                             <footer >
@@ -35,6 +40,7 @@ import {projects} from '@cv'
         /* La línea debajo hace un responsive minimo 200px se agrega 1 columna */
         grid-template-columns: repeat(auto-fit,minmax(200px, 1fr));
         gap: 1rem;
+        /* margin-inline: -16px; hace que salga el cuadro un poco a la izquierda*/
     }
     
     article {
@@ -53,6 +59,9 @@ import {projects} from '@cv'
 
     article h3 {
         margin-bottom: 4px;
+    }
+    article h3 span {
+        color: rgb(0, 188, 47)
     }
 
     article a {
