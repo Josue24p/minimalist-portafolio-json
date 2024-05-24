@@ -65,7 +65,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
                     ) 
                  }
                  {
-                    profiles.map(({network, url, username})=>{
+                    profiles.map(({network, url})=>{
                         const Icon = SOCIAL_ICONS[network]
                         if (!Icon) {
                         // En caso de que Icon sea undefined, devuelve un mensaje de error o un icono por defecto
